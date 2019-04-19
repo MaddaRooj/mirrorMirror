@@ -1,0 +1,11 @@
+#div-articles {
+    display: flex;
+    width: 50%;
+}
+
+#articleOne {
+    border: 8px solid blue;
+}
+#articleTwo {
+    border: 8px solid red;
+}
