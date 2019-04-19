@@ -1,11 +1,20 @@
 #div-articles {
     display: flex;
-    width: 50%;
 }
 
 #articleOne {
-    border: 8px solid blue;
+    border: 1px solid blue;
+    width: 50%;
+    height: auto;
+    min-height: 20px;
+    margin: 10px 10px;
+    word-wrap: break-word;
 }
 #articleTwo {
-    border: 8px solid red;
+    border: 1px solid red;
+    width: 50%;
+    height: auto;
+    min-height: 20px;
+    margin: 10px 10px;
+    word-wrap: break-word;
 }
